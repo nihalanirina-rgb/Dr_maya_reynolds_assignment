@@ -1,20 +1,34 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Dr. Maya Reynolds — Therapist Website
 
-# Run and deploy your AI Studio app
+A modern, responsive therapist website designed to provide information about Dr. Maya Reynolds, her services, therapeutic approach, and office.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/7f3b0526-7c20-4eeb-a98f-a48768874ce8
+- Modern and clean user interface
+- Fully responsive design
+- Therapist profile and introduction
+- Services and specialties section
+- About section
+- Therapeutic approach information
+- Office information
+- Contact section
+- Mobile-friendly layout
+- Smooth navigation between sections
 
-## Run Locally
+## Tech Stack
 
-**Prerequisites:**  Node.js
+- HTML
+- CSS
+- TypeScript
+- JavaScript
 
+## Getting Started
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Follow the steps below to run the project locally.
+
+### 1. Clone the Repository
+
+Clone this repository to your local machine using:
+
+```bash
+git clone https://github.com/nihalanirina-rgb/Dr_maya_reynolds_assignment
